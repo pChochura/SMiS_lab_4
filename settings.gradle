@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "smis_lab3"
+rootProject.name = "smis_lab4"
